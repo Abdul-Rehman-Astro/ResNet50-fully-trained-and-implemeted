@@ -1,2 +1,2 @@
-# ResNet50-fully-trained-and-implemeted
+# ResNet50
 Transfer Learning With Keras(Resnet-50)
