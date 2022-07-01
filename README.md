@@ -4,7 +4,7 @@ So, What is Transfer Learning?
 Simply put, transfer learning is the phenomenon which allows you to transfer what state-of-the-art machine learning models have learnt, and you use it for your custom problem.
 
 The following flow chart represents how transfer learning works in practice. Deep learning model 1 transfers the knowledge it learnt(weights, biases) which can be then used by deep learning model 2.
-[](https://chroniclesofai.com/content/images/2021/07/image-10.png)
+![Flow Chart of transfer learning](https://chroniclesofai.com/content/images/2021/07/image-10.png)
 
 Okay, but why do we need transfer learning. Why can't we train our own neural networks from scratch?
 
